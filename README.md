@@ -5,7 +5,7 @@
 A version of the Crazy Eights card game made with Python 3 and PyGame. Crazy Eights is a fun and simple card game that can be played with a standard 52 card deck.
 
 ## How to Play
-Tyoically two to four people play Crazy Eights. If there are two players, each player gets 7 cards. If there are more, each player gets 5 cards.
+Typically two to four people play Crazy Eights. If there are two players, each player gets 7 cards. If there are more, each player gets 5 cards.
 
 The goal of the game is to discard all the cards in your hand.
 
